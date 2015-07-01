@@ -1,0 +1,9 @@
+Origin: FuzeDesigns Repo
+Label: FuzeDesigns Repo
+Suite: stable
+Version: 1.0
+Codename: stable
+Architectures: iphoneos-arm
+Components: main
+Description: Awesome content created @byFuzeDesigns.
+
