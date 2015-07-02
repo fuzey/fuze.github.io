@@ -7,6 +7,6 @@ Maintainer: FuzeDesigns
 Depends: winterboard 
 Description: Bring back the WinterBoard app to your iOS device! *borrowed from @iKilledAppl3*
 Section: System 
-Size: 165334 
+Size: 165334
 Filename: ./io.github.toxicappl3inc.winterboardapp_0.9.3918_iphoneos-arm.deb
 MD5sum: 26ac214b32a37e7c96e49b45e8f581b3
